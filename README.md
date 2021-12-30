@@ -1,7 +1,9 @@
 ### Hi 👋 I'm A Noob Dev
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsoorajs&label=Profile%20views&color=0e75b6&style=flat" alt="freecontenttest" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freecontenttest" alt="freecontenttest" /></a> </p>
 
